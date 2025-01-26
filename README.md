@@ -7,11 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - **Languages:** C++ and Python.
 - **Frameworks:** Django, Flask, Raylib, React, Node.js
 - **Tools:** Git, Docker, Kubernetes, Unreal Engine, , Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, ChromaDB, Azure Cognitive Search
-
-## 📈 GitHub Stats
-
-![FroschFT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FroschFT&show_icons=true&theme=tokyonight)
+- **Databases:** PostgreSQL, SQL Server, ChromaDB, Azure Cognitive Search
 
 ## 🚀 Projects
 
@@ -26,11 +22,6 @@ Here are some of my notable projects:
 - Advanced algorithms and data structures
 - Machine learning and AI techniques
 - Cloud-native application development
-
-## 💬 Let's Connect
-
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marcelo-fonseca-junior-997b63163/)
-- **Personal Website:** [yourwebsite.com](https://yourwebsite.com)
 
 ## 📫 How to reach me
 
