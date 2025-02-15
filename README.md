@@ -1,4 +1,4 @@
-# Hi there, I'm FroschFT 👋
+# Hi there, I'm Marcelo Fonseca 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and love to work on exciting projects. Here you'll find a mix of personal projects, contributions to open source, and collaborative works.
 
