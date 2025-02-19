@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - **Languages:** C++ and Python.
 - **Frameworks:** Django, Flask, Raylib, React, Node.js
-- **Tools:** Git, Docker, Kubernetes, Unreal Engine, , Azure
+- **Tools:** Git, Docker, Kubernetes, Unreal Engine, Azure, Agile Methodology, Power BI
 - **Databases:** PostgreSQL, SQL Server, ChromaDB, Azure Cognitive Search
 
 ## 🚀 Projects
