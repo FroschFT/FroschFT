@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🔧 Technologies & Tools
 
 - **Languages:** C++ and Python.
-- **Frameworks:** MLflow, Django, Flask, Raylib, React, Node.js, Apache Airflow, Ansible
+- **Frameworks:** MLflow, Django, Flask, Raylib, React*, Apache Airflow, Ansible
 - **Tools:** Git, Docker, Linux, Kubernetes, Unreal Engine, DataBricks, Azure, Agile Methodology
 - **Databases:** PostgreSQL, SQL Server, ChromaDB, Azure Cognitive Search
 
