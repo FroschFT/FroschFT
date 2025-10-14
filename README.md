@@ -26,7 +26,7 @@ Here are some of my notable projects:
 
 ## 📫 How to reach me
 
-Feel free to reach out to me.
+Feel free to reach out to me on LinkedIn.
 
 ## ⚡ Fun Fact
 
