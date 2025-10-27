@@ -15,7 +15,7 @@ Here are some of my notable projects:
 - **[DATA\_SCIENCE](https://github.com/FroschFT/DATA_SCIENCE):** Data Science repository! Contains multiple data science projects covering various topics, including math, algorithms, machine learning, deep learning, graph theory, and more.
 - **[Natural Computing](https://github.com/FroschFT/NaturalComputingClass):** Natural computing is an interdisciplinary field that draws inspiration from nature to develop computational systems and algorithms. It encompasses a variety of subfields, each inspired by different natural phenomena.
 - **[GameDevClassyClash](https://github.com/FroschFT/PublicGameDevClassyClash):** Introduce Object Oriented Programming. Learn how this simplifies programming for games and inheritance.
-- **[Flask WebApp](https://github.com/FroschFT/project3):** Flask webapp exemple.
+- **[Flask WebApp](https://github.com/FroschFT/WebAppExemple):** Flask webapp exemple.
 
 
 ## 🌱 Currently Learning
