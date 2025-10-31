@@ -9,6 +9,29 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - **Tools:** Git, Docker, Linux, Kubernetes, Unreal Engine, DataBricks, Azure, Agile Methodology.
 - **Databases:** PostgreSQL, SQL Server, ChromaDB, Azure Cognitive Search.
 
+Some of the icons:
+<div width="100%" style="display: inline_block; text-align:center;"><br>
+  <!-- Line 1 -->
+  <div>
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
+  </div>
+
+  <img align="center" alt="Marcelo-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" alt="Marcelo-UnrealEngine" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg">
+  <img align="center" alt="Marcelo-Linux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg">
+  <img align="center" alt="Marcelo-PostgreSQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">
+  
+  <img align="center" alt="Marcelo-TensorFlow" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg">
+  <img align="center" alt="Marcelo-SciKitLearn" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg">
+
+  <img align="center" style="background-color:#FFFFFF;" alt="Marcelo-VSCode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
+  <img align="center" alt="Marcelo-Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Marcelo-Ansible" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg">
+
+  <img align="center" alt="Marcelo-Spark" height="30" width="60" src="https://www.apache.org/logos/res/spark/spark.png">
+</div>
+
 
 ## 🚀 Projects
 Here are some of my notable projects:
