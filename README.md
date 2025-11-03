@@ -27,7 +27,6 @@ Some of the icons:
 
   <img align="center" style="background-color:#FFFFFF;" alt="Marcelo-VSCode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
   <img align="center" alt="Marcelo-Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Marcelo-Ansible" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg">
 
   <img align="center" alt="Marcelo-Spark" height="30" width="60" src="https://www.apache.org/logos/res/spark/spark.png">
 </div>
