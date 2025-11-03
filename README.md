@@ -42,10 +42,9 @@ Here are some of my notable projects:
 
 ## 🌱 Currently Learning
 - Machine learning and AI techniques
-- Advanced algorithms and data structures
+- Recommendation systems
 - Autonomous Game Characters with AI
-- Cloud-native application development
-
+- Advanced algorithms and data structures
 
 ## 📫 How to reach me
 Feel free to reach out to me on LinkedIn.
