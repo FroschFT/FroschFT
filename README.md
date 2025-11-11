@@ -43,7 +43,7 @@ Here are some of my notable projects:
 ## 🌱 Currently Learning
 - Machine learning and AI techniques
 - Recommendation systems
-- Autonomous Game Characters with AI
+- Autonomous game characters with AI
 - Advanced algorithms and data structures
 
 ## 📫 How to reach me
